@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/asy-draw/static/css/main.93a0497a.css",
+    "main.js": "/asy-draw/static/js/main.ea41cc03.js",
+    "index.html": "/asy-draw/index.html",
+    "main.93a0497a.css.map": "/asy-draw/static/css/main.93a0497a.css.map",
+    "main.ea41cc03.js.map": "/asy-draw/static/js/main.ea41cc03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93a0497a.css",
+    "static/js/main.ea41cc03.js"
+  ]
+}
